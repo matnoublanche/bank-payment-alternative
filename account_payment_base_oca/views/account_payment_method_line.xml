@@ -56,7 +56,7 @@
                         <field name="refund_payment_method_line_id" />
                         <field name="payment_account_id" />
                         <field name="company_id" groups="base.group_multi_company" />
-                        <field name="default_account_id" invisible="1" />
+                        <!--<field name="default_account_id" invisible="1" />-->
                         <field name="filter_journal_ids" invisible="1" />
                     </group>
                     <group
